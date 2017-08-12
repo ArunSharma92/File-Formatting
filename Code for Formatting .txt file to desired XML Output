@@ -11,6 +11,7 @@ file.write('\n')
 t = datetime.time(12,52,51)
 turns = 0
 
+#Formatting the Input according to particular format
 files = {}
 conversations = {}
 for line in file_arr:
