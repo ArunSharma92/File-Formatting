@@ -1,6 +1,6 @@
 import os
 import datetime
-
+#Input and Splitting File
 file = open('File 1.txt', 'r').read()
 file_arr = file.split('\n')
 file = open('xml.txt', 'w')
